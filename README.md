@@ -46,7 +46,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ### Configure Teams
 1. Stay in the `Admin Panel`.
 2. Navigate to `Agents` and select `Teams`.
-3. Add yourself to the team
+3. Add yourself as a member of the team. Keep in mind that Level I Support already exists
    - **Level I Support**
    - **Level II Support**
 
